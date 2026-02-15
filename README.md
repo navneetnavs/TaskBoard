@@ -4,11 +4,11 @@ A clean, responsive Kanban board built to help teams manage tasks with zero fric
 Setup & Installation
 To get the project running locally, follow these quick steps:
 
-1. Clone & Install
+1. Clone & Install :-
 Bash
-git clone <repository-url>
-npm install
-2. Spin up Development
+i) git clone <repository-url>
+ii) npm install
+2. Spin up Development :-
 Bash
-npm run dev
+i) npm run dev :-
 Navigate to http://localhost:5173 to see it in action.
